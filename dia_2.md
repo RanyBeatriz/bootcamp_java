@@ -1,7 +1,7 @@
 # bootcamp_java
 import java.util.Scanner;
-
 public class dia_2 {
+    void main() {
 
 Scanner scanner = new Scanner(System.in);
     System.out.print("Digite seu nome completo: ");
